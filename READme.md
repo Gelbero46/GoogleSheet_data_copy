@@ -12,3 +12,5 @@
 
 This is the url of the sample master sheet
 https://docs.google.com/spreadsheets/d/1Ud-xYjmMM83hlVFjLkJxcd7jm0_fe4uEOhcep9hzyJU/edit#gid=0
+
+You can change the MasterSheet to your's by setting up the service also change the keys.json file to match
