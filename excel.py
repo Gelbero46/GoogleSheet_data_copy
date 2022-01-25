@@ -36,7 +36,7 @@ creds = service_account.Credentials.from_service_account_file(
         SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 
 # The ID and range of a sample spreadsheet.
-SAMPLE_SPREADSHEET_ID = '1Ud-xYjmMM83hlVFjLkJxcd7jm0_fe4uEOhcep9hzyJU'
+SAMPLE_SPREADSHEET_ID = 'Put the setup google sheet ID'
 
 service = build('sheets', 'v4', credentials=creds)
 
